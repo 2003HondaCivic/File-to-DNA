@@ -1,6 +1,7 @@
 # File-to-DNA
 
 Have you ever wondered what organism calc.exe was most similar to? Me neither. But now you can with File-to-DNA
+This program will effectively double the input file size, converting a bit 0-F, to ACTG.
 
 ## Installation
 
